@@ -1,4 +1,5 @@
-#Word Sense Disambiguation Using WordNet
+#**Word Sense Disambiguation Using WordNet**
+
 **1. Objective**
 
 The objective of this project is to identify the correct meaning of ambiguous words using WordNet and a Word Sense Disambiguation (WSD) algorithm.
